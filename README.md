@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Babywise&show_icons=true&theme=merko&count_private=true" alt="GitHub Stats for Islam"/>
+</p>
