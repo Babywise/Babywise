@@ -12,6 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Babywise&show_icons=true&theme=merko&count_private=true" alt="GitHub Stats for Islam"/>
-</p>
+
+<a href="https://github.com/Babywise/Babywise/stargazers"><img src="https://img.shields.io/github/stars/Babywise/Babywise" alt="Stars Badge"/></a>
+<a href="https://github.com/Babywise/Babywise/network/members"><img src="https://img.shields.io/github/forks/Babywise/Babywise" alt="Forks Badge"/></a>
+<a href="https://github.com/Babywise/Babywise/pulls"><img src="https://img.shields.io/github/issues-pr/Babywise/Babywise" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/Babywise/Babywise/issues"><img src="https://img.shields.io/github/issues/Babywise/Babywise" alt="Issues Badge"/></a>
+
+![Babywise's GitHub stats](https://github-readme-stats.vercel.app/api?username=Babywise&hide=contribs,prs&count_private=true&show_icons=true&theme=transparent)
