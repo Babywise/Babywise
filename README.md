@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/Babywise/Babywise/pulls"><img src="https://img.shields.io/github/issues-pr/Babywise/Babywise" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/Babywise/Babywise/issues"><img src="https://img.shields.io/github/issues/Babywise/Babywise" alt="Issues Badge"/></a>
 -->
-![Babywise's GitHub stats](https://github-readme-stats.vercel.app/api?username=Babywise&hide=contribs,prs&count_private=true&show_icons=true&theme=transparent)
+[![Babywise's GitHub stats](https://github-stats-extended.vercel.app/api?username=Babywise&hide=contribs&count_private=true&show_icons=true&theme=transparent)](https://github.com/stats-organization/github-stats-extended)
